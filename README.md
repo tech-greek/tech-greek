@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the fundamentals of programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science , artificial intelligence projects (to learn)
-- 📫 How to reach me @amey_malhotra (instagram)
+
 
 <!---
 tech-greek/tech-greek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
